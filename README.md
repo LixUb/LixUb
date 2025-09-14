@@ -35,7 +35,7 @@
 - 🔹 **[Andromeda](https://github.com/LixUb/andromeda)** — Kotlin-based project  
 - 🔹 **[e-arsip](https://github.com/LixUb/e-arsip)** — digital archiving system (PHP)  
 - 🔹 **[ISHOC2025](https://github.com/LixUb/ISHOC2025)** — official website for ISHOC 2025 (HTML)  
-- 🔹 **[All-In-One](https://github.com/LixUb/All-In-One)** — project for Samsung Solve for Tomorrow 2025 (HTML)  
+- 🔹 **[All-In-One](https://github.com/LixUb/All-In-One)** — project for Samsung Solve for Tomorrow 2025 (Android Studio)  
 - 🔹 **[pearlpals](https://github.com/LixUb/pearlpals)** — Kotlin project (forked)  
 
 ✨ *Explore more on my [repositories](https://github.com/LixUb?tab=repositories).*  
