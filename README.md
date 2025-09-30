@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Rayhan Nulhafiz (LixUb)</h1>
-<h3 align="center">Full-Stack Developer | Mobile App Enthusiast | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | Mobile App Enthusiast | Linux Enthusiast</h3>
 <p align="center">
   <a href="https://github.com/LixUb">
     <img src="https://img.shields.io/github/followers/LixUb?label=Followers&style=social"/>
