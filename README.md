@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=180&amp;section=header&amp;text=Rayhan%20Nulhafiz&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Mobile%20%26%20Web%20Engineer&amp;descAlignY=58&amp;descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,100:0F2027&amp;height=180&amp;section=header&amp;text=Rayhan%20Nulhafiz&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@ I'm open to collaborating on web, mobile, or real-time systems projects — feel
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,50:203A43,100:0F2027&amp;height=100&amp;section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=100&amp;section=footer" width="100%"/>
 </p>
